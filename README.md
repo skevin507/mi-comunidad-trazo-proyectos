@@ -5,7 +5,7 @@ Comunidad de práctica de jóvenes, mentores y docentes que **convierten una ide
 Nace en el **Rincón Clubhouse**, un espacio maker donde los jóvenes aprenden programación, impresión 3D, electrónica, robótica y creación audiovisual. Allí observamos un patrón: cuando termina el curso, muchas veces termina también la asistencia. Esta comunidad busca que el proyecto, no el curso, sea la razón para volver.
 
 > Proyecto final del curso SINT-741 · Activadores de Comunidades de Práctica · Universidad Cenfotec.
-> Modalidad individual · Kevin Fernández ([@skevin507](https://github.com/skevin507)).
+> Modalidad grupal · Grupo 3: Ailyn Escobar · Alexandra Domínguez · Carlos Batista · Juan Quiel · Kevin Fernández ([@skevin507](https://github.com/skevin507)).
 
 ## ¿Qué es Trazo Proyectos?
 
