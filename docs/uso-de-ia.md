@@ -18,7 +18,7 @@ Distinguimos qué ideas son propias, qué sugirió la IA y qué decidimos despu�
 - Usar el **regreso voluntario** como la señal principal.
 - El ciclo taller → reto → proyecto → regreso → muestra, y el taller de impresión 3D como primer tema.
 - Crear Trazo Proyectos para que una idea no se pierda y se pueda retomar por etapas.
-- Hacer el proyecto final de forma individual y centrado en Trazo Proyectos.
+- Hacer el proyecto final en el grupo 3, centrado en Trazo Proyectos.
 
 ## Sugerencias de la IA
 
