@@ -8,8 +8,8 @@ Distinguimos qué ideas son propias, qué sugirió la IA y qué decidimos despu�
 |---|---|
 | **Asistente de IA conversacional** | Reto 1: conversar la propuesta de activación |
 | **ChatGPT** | Trazo: auditoría de experiencia de uso a partir de capturas |
-| **Claude (Claude Code)** | Programar la app y la web de Trazo Proyectos. Para este repositorio: leer el enunciado y mis retos, proponer la estructura, redactar borradores y hacer una prueba de Trazo con mi cuenta |
-| **Trazo Proyectos** (usa Claude) | El asistente de la propia app: crear el proyecto de la comunidad y proponer objetivos |
+| **Asistente de IA para programar** | Programar la app y la web de Trazo Proyectos. Para este repositorio: leer el enunciado y mis retos, proponer la estructura, redactar borradores y hacer una prueba de Trazo con mi cuenta |
+| **Trazo Proyectos** (su asistente de IA) | El asistente de la propia app: crear el proyecto de la comunidad y proponer objetivos |
 | **Gema del círculo generador maker** | Reto 2, en grupo: organizar el mapa de comunidad de MakeralDia |
 
 ## Ideas propias
@@ -24,7 +24,7 @@ Distinguimos qué ideas son propias, qué sugirió la IA y qué decidimos despu�
 
 - **Reto 1:** diseñar primero el reto y luego el contenido; proyectos sencillos y alcanzables; empezar con una muestra interna.
 - **Trazo (ChatGPT):** que lo que propone la IA quede como propuesta hasta que la persona decida; distinguir datos verificados de hipótesis.
-- **Este repositorio (Claude):**
+- **Este repositorio (asistente de IA):**
   - Conectar el Reto 1 con Trazo Proyectos.
   - Convertir el aprendizaje del Show & Tell en una ficha.
   - Agregar una ruta en papel para no depender de la app.
@@ -34,7 +34,7 @@ Distinguimos qué ideas son propias, qué sugirió la IA y qué decidimos despu�
 
 ## Decisiones después de revisar
 
-- **Hecha con IA:** la prueba de Trazo la hizo Claude con mi cuenta. La registramos como **prueba de la herramienta**, no como una activación, porque no hubo participantes.
+- **Hecha con IA:** la prueba de Trazo la hizo un asistente de IA con mi cuenta. La registramos como **prueba de la herramienta**, no como una activación, porque no hubo participantes.
 - **Sin aceptar todavía:** los objetivos que propuso Trazo quedaron «por revisar». Se deciden con los mentores.
 - **Sin datos inventados:** el piloto en el Rincón figura como **no realizado**. El rango de edad queda pendiente.
 - **Privacidad:** nombres de compañeros reemplazados por roles. Capturas sin nombre ni correo. Ningún dato privado de la app (claves, correos de verificadores) en este repositorio.
